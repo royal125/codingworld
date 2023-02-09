@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow: hidden;
+    overflow-y: hidden;
+    overflow:auto;
+    height: auto;
+    width: auto;
+}
+.par{
+    overflow-x: hidden;
+    overflow: hidden;
+    overflow-y: hidden;
+    
+
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link { color:hsl(254, 36%, 91%) !important;
+    padding-left: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+    color: wheat!important;
+    
+   
+}
+
+.navbar-brand{
+    margin-left:1.5em;
+}
+.wol{
+    color: rgb(255, 246, 246);
+    margin-left: 3px;
+    
+   
+}
+.code{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 1px;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 1px;
+ 
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link{
+    color: rgb(12, 10, 10) !important;
+    font-size: 19px;
+    font-family: 'Anek Latin', sans-serif;
+    font-family: 'Barlow', sans-serif;
+    letter-spacing: 0.4px;
+    font-weight: 600;
+}
+    
